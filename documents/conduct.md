@@ -41,7 +41,7 @@ These are the policies for upholding our community's standards of conduct. If yo
 
 ## General
 
-In this community we strive to go the extra step to look out for each other. Don't just aim to be technically unimpeachable, try to be your best self. In particular, avoid flirting with offensive or sensitive issues, particularly if they're off-topic; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.
+In this community we strive to go the extra step to look out for each other. Don't just aim to be technically unimpeachable, try to be your best self. In particular, strive to practive respect and tolerance for all opinions when discussing sensitive issues; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.
 
 And if someone takes issue with something you said or did, resist the urge to be defensive. Just stop doing what it was they complained about and apologize. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could've communicated better — remember that it's your responsibility to make your fellow site members comfortable. Everyone wants to get along and we are all here first and foremost because we want to talk about paganism. You will find that people will be eager to assume good intent and forgive as long as you earn their trust.
 
