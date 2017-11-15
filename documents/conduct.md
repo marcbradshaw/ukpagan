@@ -1,8 +1,8 @@
 # The UK Pagan Code of Conduct
 
-## Conduct
-
 **Contact**: The moderation team
+
+## Conduct
 
 * We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 * Please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
@@ -38,6 +38,8 @@ These are the policies for upholding our community's standards of conduct. If yo
 * Please keep yourselves safe, don't post anything you would not want to become public.
 * Posting personal contact details is discouraged, please exchange personal details via private messages instead.
 * The contents of personal messages are not to be posted in the forums without consent of both parties.
+
+## General
 
 In this community we strive to go the extra step to look out for each other. Don't just aim to be technically unimpeachable, try to be your best self. In particular, avoid flirting with offensive or sensitive issues, particularly if they're off-topic; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.
 
