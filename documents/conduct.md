@@ -25,8 +25,7 @@ These are the policies for upholding our community's standards of conduct. If yo
 * If a moderator bans someone and you think it was unjustified, please take it up with that moderator, or with a different moderator, **in private**. Complaints about bans in-channel are not allowed.
 * Moderators are held to a higher standard than other community members. If a moderator creates an inappropriate situation, they should expect less leeway than others.
 * Where possible, if a moderator has participated in a thread, they will leave moderation of that thread to another moderator.
-* If a moderator edits contributed content we will make it clear, in context that the content has been altered by a moderator and why.
-* Help us to keep things tidy, please stick to the topic of the area and the thread. If you wish to discuss on a tangent please start a new thread.
+* If a moderator edits contributed content they will make it clear, in context, that the content has been altered by a moderator and why.
 
 In this community we strive to go the extra step to look out for each other. Don't just aim to be technically unimpeachable, try to be your best self. In particular, avoid flirting with offensive or sensitive issues, particularly if they're off-topic; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.
 
@@ -36,10 +35,11 @@ And if someone takes issue with something you said or did, resist the urge to be
 
 * Excepting spam, we do not usually delete threads.
 * Deleting posts from a thread after you post them is not encouraged, as it makes the thread conversation difficult to understand.
+* Help us to keep things tidy, please stick to the topic of the area and the thread. If you wish to discuss on a tangent please start a new thread.
 
 ## Personal information
 
-* Please keep yurselves safe, don't post anything you would not want to become public.
+* Please keep yourselves safe, don't post anything you would not want to become public.
 * Posting personal contact details is discouraged, please exchange personal details via private messages instead.
 * The contents of personal messages are not to be posted in the forums without consent of both parties.
 
