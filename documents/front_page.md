@@ -1,3 +1,8 @@
+---
+title: UK Pagan
+name: index.html
+---
+
 # Welcome to UK Pagan
 
 For Pagans of all paths, and for Pagans of none.
@@ -12,6 +17,5 @@ We strive to be a place for all Pagans, whatever path, whatever stage of their l
 
 We are made for the community and by the community.
 
-## How to join.
-
+Ready to go? Head straight into <a href="/forums/">our pagan forums</a> now.
 
