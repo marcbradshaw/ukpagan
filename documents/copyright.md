@@ -1,3 +1,8 @@
+---
+title: Copyright
+name: copyright.html
+---
+
 # License Conditions for Posting
 
 ## Posts

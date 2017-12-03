@@ -1,3 +1,8 @@
+---
+title: Privacy policy
+name: privacy.html
+---
+
 # Privacy policy
 
 * We are committed to protecting your privacy.

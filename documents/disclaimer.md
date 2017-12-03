@@ -1,3 +1,8 @@
+---
+title: Disclaimer
+name: disclaimer.html
+---
+
 # Disclaimer
 
 * We make no guarantee of validity whatsoever.

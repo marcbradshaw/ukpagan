@@ -1,3 +1,8 @@
+---
+title: Code of Conduct
+name: conduct.html
+---
+
 # The UK Pagan Code of Conduct
 
 **Contact**: The moderation team
