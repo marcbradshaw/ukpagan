@@ -17,5 +17,5 @@ We strive to be a place for all Pagans, whatever path, whatever stage of their l
 
 We are made for the community and by the community.
 
-<p style="text-align:center;"><a class="ipsButton ipsButton_primary ipsButton_verySmall" href="/forums/">Visit our Pagan Community</a></p>
+<p style="text-align:center;"><a class="ipsButton ipsButton_primary" href="/forums/">Visit our Pagan Community</a></p>
 
